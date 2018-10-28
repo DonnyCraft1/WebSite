@@ -1,4 +1,4 @@
-const user = "tlystad24"
+const user = "DonnyCraft1"
 const url = `https://api.github.com/users/${user}`;
 
 let text = document.getElementById("repos");
