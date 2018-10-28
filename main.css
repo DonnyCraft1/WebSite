@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Krub:400,600');
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	font-family: "Krub";
+}
